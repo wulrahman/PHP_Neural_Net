@@ -30,3 +30,5 @@ WEHRE (change)Etotal/(change)WeightJ[n] = (change)Etotal/(change)Net_Out
 * (change)Net_K/(change)Out_K
 * (change)Out_K/(change)NetJ
 * (change)NetJ/(change)WeightJ[n]
+
+You get the idea
